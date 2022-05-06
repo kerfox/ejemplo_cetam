@@ -26,5 +26,7 @@ int main(){
     for(int i=0;i<SIZE;i++){
         printf("%d) %d\n", i, ord_vector[i]);
     }
+
+    printf("HOLA ESTE ES UN CAMBIO\n");
     return 0;
 }
